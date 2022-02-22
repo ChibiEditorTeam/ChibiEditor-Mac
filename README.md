@@ -1,3 +1,5 @@
+![image](https://img.shields.io/badge/Join%20our-Discord-5865F2?logo=discord&link=https://discord.gg/vtavcAH)
+
 # ChibiEditor Mac
 ![ChibiEditor Mac Banner](https://raw.githubusercontent.com/ChibiEditorTeam/ChibiEditor-Mac/main/ChibiEditor%20Mac%20Banner.png)
 
