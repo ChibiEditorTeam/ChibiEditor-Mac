@@ -5,3 +5,7 @@
 
 ## Logiciel de création de chibis sur Mac !
 ### Logiciel créé par Rémy Trash. Portage réalisé par Moustache et Bobsonic459.
+
+## Site web de présentation
+### https://chibieditorteam.github.io/ChibiEditor-Mac/
+###### Réalisé par Moustache
